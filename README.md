@@ -24,13 +24,13 @@ The backend is integrated with the frontend. You can access the live version of 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_BACKEND_REPO_NAME.git
+   git clone https://github.com/kishorgs/React-Portfolio-Backend.git
    ```
 
 2. **Navigate to the project directory**
 
    ```bash
-   cd YOUR_BACKEND_REPO_NAME
+   cd Recact-Portfolio-Backend
    ```
 
 3. **Install dependencies**
@@ -45,8 +45,8 @@ The backend is integrated with the frontend. You can access the live version of 
 
    ```
    PORT=5000
-   MONGODB_URI=your_mongodb_connection_string
-   JWT_SECRET=your_jwt_secret_key
+   MONGODB_URI=mongodb_connection_string
+   JWT_SECRET=jwt_secret_key
    ```
 
 5. **Start the server**
